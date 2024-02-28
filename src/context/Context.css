@@ -1,0 +1,32 @@
+.context_div {
+  display: flex;
+}
+
+.box {
+  width: 1400px;
+  height: 50px;
+  border: 1px solid #b9b8b8;
+  display: flex;
+  background-color: #FFFF;
+  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+}
+.allstates {
+  background-color: #eee7e7;
+  text-align: center;
+  width: auto; 
+  padding: 9px 8px;
+  border-radius: 4px;
+  margin: 5px 4px;
+  display: flex;
+  border-radius: 31px;
+}
+.delete {
+  font-size: 22px;
+  padding: 15px;
+  border-radius: 0px 10px 10px 0px;
+
+  background-color:#CECCD1 ;
+}
+.deleteicon {
+  font-size: 22px;
+}

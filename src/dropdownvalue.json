@@ -1,0 +1,27 @@
+{
+  "options": [
+    "Current Week",
+    "Previous Week",
+    "Current Quarter",
+    "Previous Quarter",
+    "Rolling 12 Qtrs",
+    "Current FY",
+    "Previous FY",
+    "Custom"
+  ],
+  "Language": ["html", "css", "label", "javascript", "angular", "react"],
+  "Bio": [
+    "Current Week",
+    "Previous Week",
+    "Current Quarter",
+    "Previous Quarter",
+    "Rolling 12 Qtrs",
+    "Current FY",
+    "Previous FY",
+    "Custom"
+  ],
+  "mobile": ["1+", "red me", "apple", "lenovo"],
+  "number": ["1", "2", "3", "5", "64", "78", "95", "25"],
+  "Names": ["ramesh", "sasi", "irshad", "mohan", "rakesh", "saicharan", "gopi"],
+  "country": ["AUS", "END", "IND", "PAK", "USA", "UK"]
+}
